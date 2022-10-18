@@ -16,7 +16,7 @@ This is a basic UI for Stripe. It is a test project for Stripe and is not intend
 ### Stripe Test Cards
 
 <a href="https://stripe.com/docs/testing?numbers-or-method-or-token=card-numbers" alt="Test Card" >
-<img src="./card.png" width="100%" />
+<img src="../ui/card.png" width="100%" />
 </a>
 
 ### Run The App
