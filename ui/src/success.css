@@ -1,0 +1,18 @@
+.success {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.success h1 {
+  font-size: 34px;
+  font-weight: 600;
+  color: #fff;
+  text-align: center;
+  border-radius: 10px;
+  height: max-content;
+  width: max-content;
+  padding: 10px 20px;
+  background-color: green;
+}
